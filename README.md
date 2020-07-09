@@ -1,7 +1,7 @@
 ## How to use
 
-It takes two arguments to run.
-   First argument: Monitored file name
+It takes two arguments to run.  
+   First argument: Monitored file name  
    Second argument: command executed when the monitored file is updated
 
 実行するには2個の引数が必要です。  
